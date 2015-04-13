@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"inclu",
+				"include_once"
+			],
+			[
+				"bs3-b",
+				"bs3-block-button:info	bs3-block-button-info"
+			],
+			[
+				"button",
+				"button	<button>"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"r",
+				"no-repeat"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tra",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"getEle",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"le",
+				"length	String"
+			],
+			[
+				"getj",
+				"getjson	$.getjson()"
+			],
+			[
+				"HTML",
+				"innerHTML	Element"
+			],
+			[
+				"paren",
+				"parents"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pare",
+				"parentes"
+			],
+			[
+				"cha",
+				"function changeName	(newName)"
+			],
+			[
+				"chan",
+				"function changeName	(name)"
+			],
+			[
+				"change",
+				"changeName"
+			],
+			[
+				"social",
+				"socialMedia"
+			],
+			[
+				"toS",
+				"toString()	String"
+			],
+			[
+				"va",
+				"valueOf()	String"
+			],
+			[
+				"socia",
+				"socialMedia"
+			],
+			[
+				"function",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"socialM",
+				"socialMediaLi"
+			],
+			[
+				"my",
+				"myCat"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"bs3-in",
+				"bs3-input:email	bs3-input-email"
+			],
+			[
+				"input",
+				"inputt	input - text"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"img",
+				"img	HTML - Image"
+			],
+			[
+				"bs3-co",
+				"bs3-col:6	bs3-col-6"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"link",
+				"links	link - stylesheet"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"remo",
+				"removeChild(${0:child})	Node"
+			],
+			[
+				"cle",
+				"clear	Style CSS"
+			],
+			[
+				"ready",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"form",
+				"form	<form>"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"bs3-c",
+				"bs3-col:12	bs3-col-12"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bs3-",
+				"bs3-jumbotron	bs3-jumbotron"
+			],
+			[
+				"bs3-col",
+				"bs3-col:12	bs3-col-12"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bs3-we",
+				"bs3-well:lg	bs3-well-lg"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fun",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"alert",
+				"alert(${0:message})	Window"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"ge",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"reade",
+				"ReadmePlease"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"lineen",
+				"Line Ending to all views: Windows"
+			],
+			[
+				"line",
+				"Line Ending to all views: Mac OS 9"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/bmgpmedia"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Portfolio/css/style.css",
+		"/C/xampp/htdocs/Portfolio/js/myscript.js",
+		"/C/xampp/htdocs/Portfolio/index.php",
+		"/C/xampp/htdocs/Portfolio/includes/header.php",
+		"/C/xampp/htdocs/Portfolio/includes/projects.php",
+		"/C/xampp/htdocs/Portfolio/includes/footer.php",
+		"/C/xampp/htdocs/Portfolio/includes/skills.php",
+		"/C/xampp/htdocs/Portfolio/includes/contact.php",
+		"/C/xampp/htdocs/Portfolio/css/animate.css",
+		"/C/xampp/htdocs/Portfolio/js/viewportchecker.js",
+		"/C/xampp/htdocs/Portfolio/images/universe_bg.jpg",
+		"/C/xampp/htdocs/Portfolio/images/mountain.jpg",
+		"/C/xampp/htdocs/Portfolio/images/logicleadsystem-770x440.jpg",
+		"/C/xampp/htdocs/Portfolio/includes/about.php",
+		"/C/xampp/htdocs/Portfolio_personal/index.php",
+		"/C/xampp/htdocs/Portfolio_personal/includes/services.php",
+		"/C/xampp/htdocs/Portfolio_personal/includes/head.php",
+		"/C/xampp/htdocs/github-for-web-designers/_css/main.css",
+		"/C/xampp/htdocs/Javascriptfunctions/02_07/challenge/index.html",
+		"/C/xampp/htdocs/github-for-web-designers/index.html",
+		"/C/xampp/htdocs/Javascriptfunctions/02_07/challenge/info.json",
+		"/C/xampp/htdocs/Javascriptfunctions/02_07/challenge/script.js",
+		"/C/xampp/htdocs/Javascriptfunctions/03_04/finished/functions/script.js",
+		"/C/xampp/htdocs/Javascriptfunctions/03_03/finished/functions/index.html",
+		"/C/xampp/htdocs/Javascriptfunctions/03_03/finished/functions/script.js",
+		"/C/xampp/htdocs/Javascriptfunctions/03_01/finished/functions/script.js",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/JavaScriptFunctionDefinition/README.md",
+		"/C/xampp/htdocs/Javascriptfunctions/02_01/functions/script.js",
+		"/C/xampp/htdocs/Bootstrap/index.html",
+		"/C/xampp/htdocs/Bootstrap/netbooster.html",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/Bootstrap/js/custom.js",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/Bootstrap/css/style.css",
+		"/C/xampp/htdocs/Bootstrap/header-search.html",
+		"/C/xampp/htdocs/Bootstrap/assets/demo.css",
+		"/C/xampp/htdocs/Bootstrap/ExcerciseFiles/Chapter 1/01_05/bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/C/xampp/htdocs/Bootstrap/ExcerciseFiles/Chapter 1/01_05/bootstrap/fonts/glyphicons-halflings-regular.woff",
+		"/C/xampp/htdocs/Bootstrap/ExcerciseFiles/Chapter 3/03_10/additionalCSS.txt",
+		"/C/xampp/htdocs/Bootstrap/header-second-bar.html",
+		"/C/xampp/htdocs/Bootstrap/ExcerciseFiles/Chapter 1/01_04/additional head code.txt",
+		"/C/xampp/htdocs/Bootstrap/ExcerciseFiles/Chapter 3/03_08/custom-CSS.txt",
+		"/C/xampp/htdocs/Bootstrap/css/bootstrapCustom.min.css",
+		"/C/xampp/htdocs/Bootstrap/header-user-dropdown.html",
+		"/C/xampp/htdocs/Bootstrap/assets/header-user-dropdown.css",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/Bootstrap/js/bootstrap.js",
+		"/C/xampp/htdocs/Bootstrap/fonts/glyphicons-halflings-regular.eot",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/HTML Snippets/README.md",
+		"/C/xampp/htdocs/Bootstrap/js/npm.js",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/jQuery/README.md",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/PHP MySQLi connection/README.txt",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/Bootstrap 3 Snippets/README.md",
+		"/C/xampp/htdocs/Bootstrap/img/canvas.png",
+		"/C/xampp/htdocs/Bootstrap/ExcerciseFiles/Chapter 1/01_05/bootstrap/js/respond.js",
+		"/C/xampp/htdocs/Bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/C/xampp/htdocs/Bootstrap/fonts/glyphicons-halflings-regular.woff",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/Bootstrap/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/Bootstrap/.project",
+		"/C/xampp/htdocs/Bootstrap/.buildpath",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/JavaScript Refactor/README.md",
+		"/C/Users/BMGP/Dropbox/Lynda.com Excercises/SublimeTxt_2/Exercise Files/roux_website/index.htm",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/README.md",
+		"/C/Users/BMGP/Dropbox/Lynda.com Excercises/SublimeTxt_2/Exercise Files/roux_website/_fonts/Bitter-Italic-webfont.svg",
+		"/C/Users/BMGP/Dropbox/Lynda.com Excercises/SublimeTxt_2/Exercise Files/roux_website/_css/main.css",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/User/Refactor.sublime-settings",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/sublime-text-refactor/Refactor.sublime-settings",
+		"/C/Users/BMGP/Dropbox/Lynda.com Excercises/SublimeTxt_2/Exercise Files/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Users/BMGP/Dropbox/Lynda.com Excercises/SublimeTxt_2/Exercise Files/roux_website/_fonts/Google Android License.txt",
+		"/C/Users/BMGP/Dropbox/Lynda.com Excercises/SublimeTxt_2/Exercise Files/roux_website/_fonts/Bitter-Regular-webfont.svg",
+		"/C/Users/BMGP/Dropbox/Lynda.com Excercises/SublimeTxt_2/Exercise Files/roux_website/roux_website.sublime-project",
+		"/C/Users/BMGP/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\Bootstrap",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"35",
+			"70",
+			"25",
+			"40",
+			"45",
+			"70",
+			"60",
+			"80",
+			"90",
+			"9",
+			"1ABC9C",
+			"projects",
+			"navbar-togg",
+			"footerContent",
+			"footer",
+			"prattle",
+			"images/prattle.jpg",
+			"carousel2",
+			"logicleadsystem",
+			"images/logicleadsystem.jpg",
+			"Carousel1",
+			"1",
+			"img_chania.jpg",
+			"myCarousel",
+			"=\"\">",
+			"f4f6f7",
+			"project_content_left",
+			"project1",
+			"project_content",
+			"project1",
+			"stylesheet",
+			"proj",
+			"fix",
+			"auto",
+			"article",
+			"div",
+			"article",
+			"xs",
+			"p",
+			"B2CDC6",
+			"B2Bgd6",
+			"header",
+			"B2Bgd6",
+			"text",
+			"div",
+			"27ae60",
+			"3498db",
+			"e7e7e7",
+			"scrolldownContainer",
+			"scrolldownButton",
+			"scrollDownBtn",
+			"scrolldownContainer",
+			"height100",
+			"scrolldownContainer",
+			"wheight",
+			"scrolldownContainerHeight",
+			"px",
+			"header .navbar-brand h1 {",
+			"brand",
+			"featured",
+			"info",
+			"u",
+			"Info",
+			"Thomas",
+			"ul",
+			"socialMedia",
+			"Cat",
+			"myCat",
+			"Cat",
+			"form",
+			"absolute",
+			"inse",
+			"//",
+			"-500",
+			"text",
+			"class",
+			"inputTel",
+			"comment",
+			"a",
+			"=\"#\"></",
+			"lavender",
+			"LAVENDER",
+			"condense",
+			"alumni",
+			"condense",
+			"<li>",
+			"Student",
+			"header",
+			"footer",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://",
+			"-400",
+			"header",
+			"footer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 190.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bmgpmedia.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".css",
+				"assets\\demo.css"
+			],
+			[
+				"css",
+				"_css\\main.css"
+			],
+			[
+				"in",
+				"index.htm"
+			],
+			[
+				"ub",
+				"C:\\Users\\BMGP\\Dropbox\\Lynda.com Excercises\\SublimeTxt_2\\Exercise Files\\roux_website\\index.htm"
+			],
+			[
+				"i",
+				"C:\\Users\\BMGP\\Dropbox\\Lynda.com Excercises\\SublimeTxt_2\\Exercise Files\\roux_website\\index.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\SublimeNewname\\sublime_project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

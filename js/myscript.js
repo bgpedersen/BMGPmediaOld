@@ -61,7 +61,7 @@ $(function() {
 
 
   $("#dynamicText").typed({
-    strings: ["Web Developer...", "Teamplayer...", "Coder {}...", "Friend..", "Frontend explorer..."],
+    strings: ["Web Developer...", "Teamplayer...", "Coder {}...", "UI interested..", "Frontend explorer..."],
     typeSpeed: 70,
     loop: true,
     showCursor: true
