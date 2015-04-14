@@ -27,8 +27,9 @@
 
 							<div class="about-links">
 								<ul>
-									<li><a href="https://dk.linkedin.com/in/bmgpmedia" target="_blank"><span class="fa fa-linkedin"></span> LinkedIn profile</a></li>
-									<li><a href="files/CV.pdf" target="_blank"><span class="fa fa-file-o"></span> Download CV</a></li>
+									<li><a href="https://dk.linkedin.com/in/bmgpmedia" target="_blank" alt="LinkedIn" title="Visit me on LinkedIn"><span class="fa fa-linkedin"></span> LinkedIn profile</a></li>
+									<li><a href="files/CV.pdf" target="_blank" alt="CV" title="CV"><span class="fa fa-file-o"></span> View CV</a></li>
+									<li><a href="https://github.com/Moelgaard85" target="_blank" alt="GitHub" title="Visit me on GitHub"><span class="fa fa-github-alt"></span> GitHub account</a></li>
 								</ul>
 							</div>
 						</article>

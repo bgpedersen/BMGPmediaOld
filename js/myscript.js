@@ -89,6 +89,11 @@ $('.karokee p').addClass("hiddenClass").viewportChecker({
       offset: 50,
       repeat: true
     });
+$('.facebook').addClass("hiddenClass").viewportChecker({
+      classToAdd: 'visibleClass animated bounce',
+      offset: 50,
+      repeat: true
+    });
 
 
 

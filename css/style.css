@@ -641,10 +641,21 @@ and (max-width: 480px) {
 
 #contact .overlay {
 	padding: 50px 0;
-	background: rgba(44, 62, 80,0.8);
+	background: rgba(44, 62, 80,0.9);
 	overflow: hidden;
 	height: 100%;
 	z-index: 2;
+}
+#contact p, h2, h3 {
+	color: #FFF;
+}
+
+#contact header h2 {
+	font-size: 2.125em;
+    font-weight: 100;
+    padding: 0 0 3%;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 #contact .contact-info header {
@@ -679,54 +690,18 @@ and (max-width: 480px) {
 	transition: 0.2s ease;
 }
 
-#contact .contact-form .form-control {
-	padding: 12px 6px;
-	border: none;
-	border-radius: 0;
-	border-bottom: 2px solid;
-	box-shadow: none !important;
-	background-color: transparent;
-	color: rgba(236, 240, 241,0.5);
-}
-
-#contact .contact-form h3 {
-	margin: 24px 0 12px 0;
-}
-
-#contact .contact-form .form-group textarea {
-	resize: none;
-}
-
-#contact .btn-default {
-	color: rgba(236, 240, 241,0.5);
-	background-color: transparent;
-	border-width: 3px;
-	border-radius: 0px;
-	border-color: rgba(236, 240, 241,0.5);
-	transition: 0.2s ease;
-}
-
-#contact .btn-default:hover {
-	color: rgba(44, 62, 80,0.8);
-	background-color:  rgba(236, 240, 241,1.0);
-	border-width: 3px;
-	border-radius: 0px;
-	border-color: rgba(236, 240, 241,1.0);
-	transition: 0.2s ease;
-}
-
 
 
 
 /*License page */
 
 #footer {
-	font-size: 0.7em;
+
 	color: #fff;
 	background-color: #141414;
 	padding: 10px 0;
 	margin: 0;
-	text-align: left;
+	text-align: center;
 }
 
 #footer h2 {
@@ -748,7 +723,7 @@ and (max-width: 480px) {
 
 
 #skills article {
-	background-color: #1ABC9C;
+	background-color: rgb(44,62,80);
 	padding: 35px 0;
 }
 
@@ -812,7 +787,7 @@ and (max-width: 480px) {
 }
 
 #skills article .progress-bar{
-    background-color: #000;
+    background-color: #e67e22;
     box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15) inset;
     color: #fff;
     float: left;
