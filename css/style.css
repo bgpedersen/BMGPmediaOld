@@ -593,6 +593,7 @@ and (max-width: 480px) {
 	color: #fff;
 	padding: 2% 10%;
 	transition: 0.5s;
+	text-align: left;
 }
 #projects .btn-info:hover {
 	background-color: #445A70;
@@ -622,7 +623,6 @@ and (max-width: 480px) {
 	margin: 0;
 	width: 12px;
 }
-
 
 
 
