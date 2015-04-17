@@ -1,12 +1,12 @@
 function init(){
   try{
+    var documentElement = $(document);
     console.log('Init started');
     "use strict";
 
     var topoffset = 50; //variable for menu height
 
     var wheight = $(window).height(); //get the height of the window
-    var wwidth = $(window).width(); //get the height of the window
 
     $('.fullheight').css('height', wheight); //set to window tallness  
 
@@ -14,7 +14,6 @@ function init(){
     //adjust height of .fullheight elements on window resize
     $(window).resize(function() {
       wheight = $(window).height(); //set the height of the window
-      wwidth = $(window).width(); //set width of window
       $('.fullheight').css('height', wheight); //set to window tallness  
   });
 
@@ -27,7 +26,7 @@ function init(){
     });
 
     // add inbody class
-    var hash = $(this).find('li.active a').attr('href');
+    var hash = $(documentElement).find('li.active a').attr('href');
     if(hash !== '#home') {
       $('header nav').addClass('inbody');
     } else {

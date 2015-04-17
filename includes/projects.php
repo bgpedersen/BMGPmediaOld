@@ -7,7 +7,92 @@
 
 		</header>
 	</div> <!-- content container END -->
+	<!-- Project 5 -->
+	<article>
+		<div class="container">
+			<div class="row">
 
+				<div class="col-md-4 col-xs-12">
+					<div class="project_content_left">
+						<h4>Wordpress solutions</h4>
+						<h5>Integrated WP designs created with Headway</h5>
+						<img src="images/grey_line.png" class="line" alt="grey_line">
+						<p>I have integrated several uniquely designs into Wordpress templates for customers during my job in Click-A-Site as a developer. <br><br> 
+							The templates have been created using Headway template builder. <br></p><br>
+							<div class="row">
+								<div class="col-xs-6">
+
+									<a href="http://colorectalcancer.cashosting.dk" alt="Colorectalcancer" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Colorectal</button></a>
+									<a href="http://Ebberoed.cashosting.dk" alt="Ebberoed" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Ebberød</button></a>
+									<a href="http://Fjordhoj.dk" alt="Fjordhoj" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Fjordhøj</button></a>
+								</div>
+								<div class="col-xs-6">
+									<a href="http://Motivation.dk" alt="Motivation" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Motivation</button></a>
+									<a href="http://RenGaarde.dk" alt="RenGaarde.dk" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Gaarde</button></a>
+									
+								</div>
+							</div>
+							
+							
+						</div>
+					</div><!-- col left description end -->
+					<div class="col-md-8 col-xs-12">
+						<div class="project_content_right">
+							<div class="project-image">
+
+								<!-- Carousel 5-->
+								<div id="carousel5" class="carousel slide" data-ride="carousel">
+									<!-- Indicators -->
+									<ol class="carousel-indicators">
+										<li data-target="#carousel5" data-slide-to="0" class="active"></li>
+										<li data-target="#carousel5" data-slide-to="1"></li>
+										<li data-target="#carousel5" data-slide-to="2"></li>
+										<li data-target="#carousel5" data-slide-to="3"></li>
+										<li data-target="#carousel5" data-slide-to="4"></li>
+
+									</ol>
+
+									<!-- Wrapper for slides -->
+									<div class="carousel-inner" role="listbox">
+										<div class="item active">
+											<img src="images/colorectalcancer.jpg" alt="colorectalcancer">
+										</div>
+
+										<div class="item">
+											<img src="images/ebberoed.jpg" alt="ebberoed">
+										</div>
+
+										<div class="item">
+											<img src="images/fjordhoj.jpg" alt="fjordhoj">
+										</div>
+										<div class="item">
+											<img src="images/motivation.jpg" alt="motivation">
+										</div>
+										<div class="item">
+											<img src="images/rengaarde.jpg" alt="rengaarde">
+										</div>
+
+									</div>
+
+									<!-- Left and right controls -->
+								<!-- <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="right carousel-control" href="#carousel3" role="button" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								</a> -->
+							</div><!-- Carousel 5 End -->
+
+						</div>
+					</div>
+				</div><!-- col right image end -->
+				
+			</div><!-- row end -->
+		</div><!-- container end -->
+	</article><!-- article end -->
+	<!-- Project 5 end -->
 
 	<!-- Project 1 -->
 	<article>
@@ -291,91 +376,6 @@
 	</article><!-- article end -->
 	<!-- Project 4 end -->
 
-	<!-- Project 5 -->
-	<article>
-		<div class="container">
-			<div class="row">
-
-				<div class="col-md-4 col-xs-12">
-					<div class="project_content_left">
-						<h4>Wordpress solutions</h4>
-						<h5>Integrated WP designs created with Headway</h5>
-						<img src="images/grey_line.png" class="line" alt="grey_line">
-						<p>I have integrated several uniquely designs into Wordpress templates for customers during my job in Click-A-Site as a developer. <br><br> 
-							The templates have been created using Headway template builder. <br></p><br>
-							<div class="row">
-								<div class="col-xs-6">
-
-									<a href="http://colorectalcancer.cashosting.dk" alt="Colorectalcancer" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Colorectal Cancer</button></a>
-									<a href="http://Ebberoed.cashosting.dk" alt="Ebberoed" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Ebberød</button></a>
-									<a href="http://Fjordhoj.dk" alt="Fjordhoj" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Fjordhøj</button></a>
-								</div>
-								<div class="col-xs-6">
-									<a href="http://Motivation.dk" alt="Motivation" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Motivation</button></a>
-									<a href="http://RenGaarde.dk" alt="RenGaarde.dk" target="_blank"><button type="button" class="btn btn-block btn-info"><span class="fa fa-external-link"></span> Gaarde Rengøring</button></a>
-									
-								</div>
-							</div>
-							
-							
-						</div>
-					</div><!-- col left description end -->
-					<div class="col-md-8 col-xs-12">
-						<div class="project_content_right">
-							<div class="project-image">
-
-								<!-- Carousel 5-->
-								<div id="carousel5" class="carousel slide" data-ride="carousel">
-									<!-- Indicators -->
-									<ol class="carousel-indicators">
-										<li data-target="#carousel5" data-slide-to="0" class="active"></li>
-										<li data-target="#carousel5" data-slide-to="1"></li>
-										<li data-target="#carousel5" data-slide-to="2"></li>
-										<li data-target="#carousel5" data-slide-to="3"></li>
-										<li data-target="#carousel5" data-slide-to="4"></li>
-
-									</ol>
-
-									<!-- Wrapper for slides -->
-									<div class="carousel-inner" role="listbox">
-										<div class="item active">
-											<img src="images/colorectalcancer.jpg" alt="colorectalcancer">
-										</div>
-
-										<div class="item">
-											<img src="images/ebberoed.jpg" alt="ebberoed">
-										</div>
-
-										<div class="item">
-											<img src="images/fjordhoj.jpg" alt="fjordhoj">
-										</div>
-										<div class="item">
-											<img src="images/motivation.jpg" alt="motivation">
-										</div>
-										<div class="item">
-											<img src="images/rengaarde.jpg" alt="rengaarde">
-										</div>
-
-									</div>
-
-									<!-- Left and right controls -->
-								<!-- <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
-									<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-									<span class="sr-only">Previous</span>
-								</a>
-								<a class="right carousel-control" href="#carousel3" role="button" data-slide="next">
-									<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-									<span class="sr-only">Next</span>
-								</a> -->
-							</div><!-- Carousel 5 End -->
-
-						</div>
-					</div>
-				</div><!-- col right image end -->
-				
-			</div><!-- row end -->
-		</div><!-- container end -->
-	</article><!-- article end -->
-	<!-- Project 5 end -->
+	
 
 </div> <!-- #page Projects END -->  

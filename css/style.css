@@ -304,7 +304,7 @@ header .navbar-default .navbar-toggle .icon-bar {
 	background-color: white;
 }
 header .navbar-collapse {
-	background-color: #2C3E50;
+	background-color: none;
 	text-align: right;
 }
 @media only screen
