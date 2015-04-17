@@ -16,17 +16,7 @@ function init(){
       wheight = $(window).height(); //set the height of the window
       wwidth = $(window).width(); //set width of window
       $('.fullheight').css('height', wheight); //set to window tallness  
-    });
-
-    try{
-     /*Remove transition on mobile devices*/
-     if (wwidth < 600) {
-      console.info("Disabling transition");
-      $('body').toggleClass('notransition');
-    }  
-  }catch(e){
-    console.error("Could not add notransition:" + e);
-  }
+  });
 
   
 
