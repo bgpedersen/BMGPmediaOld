@@ -32,7 +32,14 @@ h2 {
 	position: relative;
 }
 
-
+/*No transition */
+.notransition * { 
+  -webkit-transition: none !important; 
+  -moz-transition: none !important; 
+  -o-transition: none !important; 
+  -ms-transition: none !important; 
+  transition: none !important; 
+} 
 
 .hiddenClass{
 	opacity:0;
@@ -296,14 +303,21 @@ header .navbar-default .navbar-toggle:hover {
 header .navbar-default .navbar-toggle .icon-bar {
 	background-color: white;
 }
-
+header .navbar-collapse {
+	background-color: #2C3E50;
+	text-align: right;
+}
 @media only screen
 and (max-width: 768px) {
 	header .navbar-collapse.in {
-		background-color: rgba(0,0,0, .5);
+		background-color: #2C3E50;
+		text-align: right;
 	}
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border: none;
+}
 /**  nav inbody **/
 
 header .inbody {
@@ -375,8 +389,8 @@ and (min-width: 996px)
 }
 
 #about .about-text {
-		background-color: rgba(236, 240, 241, 0.9);
-	}
+	background-color: rgba(236, 240, 241, 0.9);
+}
 
 #about {
 	background-color: rgba(189, 195, 199,1.0);
@@ -664,10 +678,10 @@ and (max-width: 480px) {
 
 #contact header h2 {
 	font-size: 2.125em;
-    font-weight: 100;
-    padding: 0 0 3%;
-    text-align: center;
-    text-transform: uppercase;
+	font-weight: 100;
+	padding: 0 0 3%;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 #contact .contact-info header {
@@ -790,25 +804,25 @@ and (max-width: 480px) {
 
 
 #skills article .progress {
-    background-color: #f5f5f5;
-    border-radius: 4px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset;
-    height: 10px;
-    margin-bottom: 20px;
-    overflow: hidden;
+	background-color: #f5f5f5;
+	border-radius: 4px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset;
+	height: 10px;
+	margin-bottom: 20px;
+	overflow: hidden;
 }
 
 #skills article .progress-bar{
-    background-color: #e67e22;
-    box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15) inset;
-    color: #fff;
-    float: left;
-    font-size: 12px;
-    height: 100%;
-    line-height: 20px;
-    text-align: center;
-    transition: width 0.6s ease 0s;
-    width: 0;
+	background-color: #e67e22;
+	box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15) inset;
+	color: #fff;
+	float: left;
+	font-size: 12px;
+	height: 100%;
+	line-height: 20px;
+	text-align: center;
+	transition: width 0.6s ease 0s;
+	width: 0;
 }
 
 #skills article .karokee p {

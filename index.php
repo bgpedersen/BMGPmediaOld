@@ -55,6 +55,11 @@
 	<script src="js/typed.js"></script>
 	<script src="js/viewportchecker.js"></script>	
 	<script src="js/myscript.js"></script>
+	<script>
+		$(document).ready(function() {
+			init();
+		});
+	</script>
 </body>
 </html>
 

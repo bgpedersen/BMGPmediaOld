@@ -1,102 +1,115 @@
-$(function() {
+function init(){
+  try{
+    console.log('Init started');
+    "use strict";
 
-  "use strict";
+    var topoffset = 50; //variable for menu height
 
-  var topoffset = 50; //variable for menu height
+    var wheight = $(window).height(); //get the height of the window
+    var wwidth = $(window).width(); //get the height of the window
 
-  var wheight = $(window).height(); //get the height of the window
-
-  $('.fullheight').css('height', wheight); //set to window tallness  
-
-
-  //adjust height of .fullheight elements on window resize
-  $(window).resize(function() {
-    wheight = $(window).height(); //get the height of the window
     $('.fullheight').css('height', wheight); //set to window tallness  
-  });
 
 
+    //adjust height of .fullheight elements on window resize
+    $(window).resize(function() {
+      wheight = $(window).height(); //set the height of the window
+      wwidth = $(window).width(); //set width of window
+      $('.fullheight').css('height', wheight); //set to window tallness  
+    });
 
-  //Activate Scrollspy
-  $('body').scrollspy({
-    target: 'header .navbar',
-    offset: topoffset
-  });
-
-  // add inbody class
-  var hash = $(this).find('li.active a').attr('href');
-  if(hash !== '#home') {
-    $('header nav').addClass('inbody');
-  } else {
-    $('header nav').removeClass('inbody');
+    try{
+     /*Remove transition on mobile devices*/
+     if (wwidth < 600) {
+      console.info("Disabling transition");
+      $('body').toggleClass('notransition');
+    }  
+  }catch(e){
+    console.error("Could not add notransition:" + e);
   }
 
+  
 
-  // Add an inbody class to nav when scrollspy event fires
-  $('.navbar-fixed-top').on('activate.bs.scrollspy', function() {
+    //Activate Scrollspy
+    $('body').scrollspy({
+      target: 'header .navbar',
+      offset: topoffset
+    });
+
+    // add inbody class
     var hash = $(this).find('li.active a').attr('href');
     if(hash !== '#home') {
       $('header nav').addClass('inbody');
     } else {
       $('header nav').removeClass('inbody');
     }
-  });
 
 
-  //Use smooth scrolling when clicking on navigation
-  $('header a[href*=#]:not([href=#])').click(function() {
-    if (location.pathname.replace(/^\//,'') === 
-      this.pathname.replace(/^\//,'') && 
-      location.hostname === this.hostname) {
-      var target = $(this.hash);
-    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-    if (target.length) {
-      $('html,body').animate({
-        scrollTop: target.offset().top-topoffset+2
-      }, 500);
-      return false;
-      } //target.length
-    } //click function
-  }); //smooth scrolling
+    // Add an inbody class to nav when scrollspy event fires
+    $('.navbar-fixed-top').on('activate.bs.scrollspy', function() {
+      var hash = $(this).find('li.active a').attr('href');
+      if(hash !== '#home') {
+        $('header nav').addClass('inbody');
+      } else {
+        $('header nav').removeClass('inbody');
+      }
+    });
 
 
-  $("#dynamicText").typed({
-    strings: ["Web Developer...", "Teamplayer...", "Coder {}...", "UI interested..", "Frontend explorer..."],
-    typeSpeed: 70,
-    loop: true,
-    showCursor: true
-  });
+    //Use smooth scrolling when clicking on navigation
+    $('header a[href*=#]:not([href=#])').click(function() {
+      if (location.pathname.replace(/^\//,'') === 
+        this.pathname.replace(/^\//,'') && 
+        location.hostname === this.hostname) {
+        var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top-topoffset+2
+        }, 500);
+        return false;
+        } //target.length
+      } //click function
+    }); //smooth scrolling
 
-  /*Animate projects*/
-  $('.project_content_left').addClass("hiddenClass").viewportChecker({
-    classToAdd: 'visibleClass animated fadeInLeft',
-    offset: 50
-  });
-  $('.project_content_right').addClass("hiddenClass").viewportChecker({
+
+    $("#dynamicText").typed({
+      strings: ["Web Developer...", "Teamplayer...", "Coder {}...", "UI interested..", "Frontend explorer..."],
+      typeSpeed: 70,
+      loop: true,
+      showCursor: true
+    });
+
+    /*Animate projects*/
+    $('.project_content_left').addClass("hiddenClass").viewportChecker({
+      classToAdd: 'visibleClass animated fadeInLeft',
+      offset: 50
+    });
+    $('.project_content_right').addClass("hiddenClass").viewportChecker({
       classToAdd: 'visibleClass animated fadeInRight',
       offset: 50
     });
 
-/*Animate Skills*/
-$('.progress-bar').addClass("hiddenClass").viewportChecker({
+    /*Animate Skills*/
+    $('.progress-bar').addClass("hiddenClass").viewportChecker({
       classToAdd: 'visibleClass animated fadeInLeft',
       offset: 50,
       repeat: true
     });
 
-$('.karokee p').addClass("hiddenClass").viewportChecker({
+    $('.karokee p').addClass("hiddenClass").viewportChecker({
       classToAdd: 'visibleClass animated rubberBand',
       offset: 50,
       repeat: true
     });
-$('.facebook').addClass("hiddenClass").viewportChecker({
+    $('.facebook').addClass("hiddenClass").viewportChecker({
       classToAdd: 'visibleClass animated bounce',
       offset: 50,
       repeat: true
     });
 
 
-
-
-
-});/*ready*/
+  }catch(e){    
+    console.error("Init() failed: " + e);
+  }
+}
