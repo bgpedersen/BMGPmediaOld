@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"txt",
+				"text-align"
+			],
+			[
 				"mar",
 				"margin"
 			],
@@ -295,31 +299,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 1592,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "includes/about.php",
-			"settings":
-			{
-				"buffer_size": 1865,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "includes/projects.php",
-			"settings":
-			{
-				"buffer_size": 9174,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "includes/header.php",
-			"settings":
-			{
-				"buffer_size": 1703,
+				"buffer_size": 2306,
 				"line_ending": "Windows"
 			}
 		},
@@ -327,7 +307,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 12809,
+				"buffer_size": 12253,
 				"line_ending": "Windows"
 			}
 		},
@@ -335,7 +315,7 @@
 			"file": "js/myscript.js",
 			"settings":
 			{
-				"buffer_size": 2539,
+				"buffer_size": 2691,
 				"line_ending": "Windows"
 			}
 		}
@@ -484,12 +464,20 @@
 		"/C/xampp/htdocs/bmgpmedia",
 		"/C/xampp/htdocs/bmgpmedia/css",
 		"/C/xampp/htdocs/bmgpmedia/files",
-		"/C/xampp/htdocs/bmgpmedia/images",
 		"/C/xampp/htdocs/bmgpmedia/includes",
 		"/C/xampp/htdocs/bmgpmedia/js"
 	],
 	"file_history":
 	[
+		"/C/Users/BMGP/Desktop/.htaccess",
+		"/C/Users/BMGP/Desktop/index.php",
+		"/C/xampp/htdocs/bmgpmedia/includes/contact.php",
+		"/C/xampp/htdocs/bmgpmedia/includes/projects.php",
+		"/C/xampp/htdocs/bmgpmedia/includes/header.php",
+		"/C/xampp/htdocs/bmgpmedia/includes/services.php",
+		"/C/xampp/htdocs/bmgpmedia/includes/about.php",
+		"/C/xampp/htdocs/bmgpmedia/includes/footer.php",
+		"/C/xampp/htdocs/bmgpmedia/index.php",
 		"/C/xampp/htdocs/bmgpmedia/js/typed.js",
 		"/C/xampp/htdocs/Portfolio/css/style.css",
 		"/C/xampp/htdocs/Portfolio/js/myscript.js",
@@ -584,6 +572,29 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Meta Tag",
+			"text-left",
+			"projec",
+			"fjordhoj",
+			"village_3",
+			"village_2",
+			"btn-small",
+			"btn",
+			"Ebberoed",
+			"4",
+			"Project 4",
+			"4",
+			"3",
+			"bookit",
+			"bookit_1",
+			"3",
+			"png",
+			"bookit",
+			"footer",
+			"GitHub",
+			"LinkedIn",
+			"Facebook",
+			"contac",
 			"project header",
 			"about",
 			"5",
@@ -698,7 +709,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -707,15 +718,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1592,
+						"buffer_size": 2306,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								537,
-								537
+								1412,
+								1412
 							]
 						],
 						"settings":
@@ -728,99 +739,14 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "includes/about.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1865,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1443,
-								1443
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Cobalt (SL).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "includes/projects.php",
+					"file": "favicon.ico",
 					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 9174,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								305,
-								305
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Cobalt (SL).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "includes/header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1703,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								106,
-								106
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Cobalt (SL).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
+					"stack_index": 1,
+					"type": "image"
 				}
 			]
 		},
@@ -829,20 +755,20 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 1,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12809,
+						"buffer_size": 12253,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5401,
-								5401
+								9724,
+								9724
 							]
 						],
 						"settings":
@@ -853,27 +779,27 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4300.0,
+						"translation.y": 8324.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 2,
 					"file": "js/myscript.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2539,
+						"buffer_size": 2691,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1082,
-								1082
+								2676,
+								2676
 							]
 						],
 						"settings":
@@ -884,10 +810,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 336.0,
+						"translation.y": 588.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -921,7 +847,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.665175498968,
 			1.0
 		],
 		"rows":
@@ -997,9 +923,13 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
 	},
 	"show_minimap": false,
 	"show_open_files": false,

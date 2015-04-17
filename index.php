@@ -10,8 +10,21 @@
 	<script src="js/prefixfree.min.js"></script>
 	<meta name="description" content="Bjarne Gerhardt-Pedersen Porfolio website">
 	<meta name="keywords" content="Portfolio Bjarne Gerhardt-Pedersen Web Developer">
-	<link rel="icon" type="image/ico" href="favicon.ico">
+	<link rel="icon" href="http://bmgpmedia.dk/favicon.png">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta property="og:site_name" content="BMGPmedia" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="BMGPmedia" />
+	<meta property="og:url" content="http://bmgpmedia.dk" />
+	<meta property="og:description" content="Bjarne M. G-Ps online portfolio with info and projects." />
+	<meta property="og:image" content="http://bmgpmedia.dk/files/facebook1200x630.jpg" />
+	<meta property="fb:app_id" content="418578741523788" />
+	<meta property="fb:admins" content="100000149541020" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+
 </head>
 <body>
 	<?php include_once 'includes/services.php' ?>
