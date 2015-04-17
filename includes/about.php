@@ -28,7 +28,7 @@
 							<div class="about-links">
 								<ul>
 									<li><a href="https://dk.linkedin.com/in/bmgpmedia" target="_blank" alt="LinkedIn" title="Visit me on LinkedIn"><span class="fa fa-linkedin"></span> LinkedIn profile</a></li>
-									<li><a href="files/CV.pdf" target="_blank" alt="CV" title="CV"><span class="fa fa-file-o"></span> View CV</a></li>
+									
 									<li><a href="https://github.com/Moelgaard85" target="_blank" alt="GitHub" title="Visit me on GitHub"><span class="fa fa-github-alt"></span> GitHub account</a></li>
 								</ul>
 							</div>
@@ -36,9 +36,10 @@
 					</div>
 					
 					
-					<div class="col-md-5 col-md-offset-0 col-xs-4 col-xs-offset-3">
-						<article>
+					<div class="col-md-5 col-md-offset-0 col-xs-9 col-xs-offset-1">
+						<article class="image_cv">
 							<img class="img-padding img-circle img-responsive" src="./images/bmgp.jpg" alt="Bjarne Mølgaard Gerhardt-Pedersen">
+							<a href="files/CV.pdf" target="_blank" alt="CV" title="CV"><h3><span class="fa fa-file-o"></span> View CV</h3></a>
 						</article>
 					</div>
 

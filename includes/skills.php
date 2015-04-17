@@ -117,7 +117,7 @@
 </div><!-- progress end -->
 </div><!-- Skill individual end -->
 <div class="skill-individual karokee">
-	<p>singing karokee</p>
+	<p>singing Karaoke</p>
 	<div class="progress">
 		<div class="progress-bar" role="progressbar" aria-valuenow="5" 
 		aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
