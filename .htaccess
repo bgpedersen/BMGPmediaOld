@@ -1,0 +1,22 @@
+Options -Indexes
+
+ErrorDocument 404 "Ups, the content you are looking for dosn't exit. Click <a href='/'>here</a> to get back the frontpage"
+
+<FilesMatch "^php5?\.(ini|cgi)$">
+Order Deny,Allow
+Deny from All
+Allow from env=REDIRECT_STATUS
+</FilesMatch> 
+
+<Files *.php>
+    Order Deny,Allow
+    Deny from all
+    #Allow from 127.0.0.1
+</Files>
+
+<Files index.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+RewriteEngine on

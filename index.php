@@ -11,7 +11,7 @@
 	<meta name="description" content="Bjarne Gerhardt-Pedersen Porfolio website">
 	<meta name="keywords" content="Portfolio Bjarne Gerhardt-Pedersen Web Developer">
 	<link rel="icon" href="http://bmgpmedia.dk/favicon.png">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 	<meta property="og:site_name" content="BMGPmedia" />
 	<meta property="og:locale" content="da_DK" />
