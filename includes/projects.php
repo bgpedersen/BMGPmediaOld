@@ -94,6 +94,89 @@
 	</article><!-- article end -->
 	<!-- Project 5 end -->
 
+	<!-- Project 6 -->
+	<article>
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-4 col-xs-12">
+					<div class="project_content_left">
+						<h4>Angular HQ</h4>
+						<h5>Test project built with AngularJS, form validation and multi-language support</h5>
+						<img src="images/grey_line.png" class="line" alt="grey_line">
+						
+						</p>
+						<ul>
+							<li>- AngularJS & routing for dynamic page content</li>
+							<li>- Responsive (Bootstrap & media queries)</li>
+							<li>- Dynamic multi-language support using Angular gettext, Grunt and Poedit</li>
+							<li>- Form validation (client+server) with Angular and AJAX</li>
+							<li>- Form data converted to html and sends to predefined email</li>
+							<li>- Cookie saves user preferred language</li>
+							<li>- Dependencies installation with Bower</li>							
+							<li>- CSS preprocessor (SCSS)</li>						
+						</ul>
+						<p>Code can be found on <a href="https://github.com/Moelgaard85/AngularHQ" target="_blank">Github</a>
+						<a href="http://bmgpmedia.dk/angularhq/" target="_blank"><button type="button" class="btn btn-large btn-info">See the work</button></a>
+					</div>
+				</div><!-- col left description end -->
+				<div class="col-md-8 col-xs-12">
+					<div class="project_content_right">
+						<div class="project-image">
+
+							<!-- Carousel 6-->
+							<div id="carousel5" class="carousel slide" data-ride="carousel">
+								<!-- Indicators -->
+								<ol class="carousel-indicators">
+									<li data-target="#carousel5" data-slide-to="0" class="active"></li>
+									<li data-target="#carousel5" data-slide-to="1"></li>
+									<li data-target="#carousel5" data-slide-to="2"></li>
+									<li data-target="#carousel5" data-slide-to="3"></li>
+									<li data-target="#carousel5" data-slide-to="4"></li>
+
+								</ol>
+
+								<!-- Wrapper for slides -->
+								<div class="carousel-inner" role="listbox">
+									<div class="item active">
+										<img src="images/angularhq_1.jpg" alt="angularhq_1">
+									</div>
+
+									<div class="item">
+										<img src="images/angularhq_2.jpg" alt="angularhq_2">
+									</div>
+
+									<div class="item">
+										<img src="images/angularhq_3.jpg" alt="angularhq_3">
+									</div>
+									
+
+								</div>
+
+								<!-- Left and right controls -->
+								<!-- <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="right carousel-control" href="#carousel3" role="button" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								</a> -->
+							</div><!-- Carousel 6 End -->
+
+						</div>
+					</div>
+				</div><!-- col right image end -->
+				
+			</div><!-- row end -->
+		</div><!-- container end -->
+	</article><!-- article end -->
+	<!-- Project 6 end -->
+
+
+
+
+
 	<!-- Project 1 -->
 	<article>
 		<div class="container">
