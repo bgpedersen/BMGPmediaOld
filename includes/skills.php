@@ -99,7 +99,7 @@
 </div><!-- progress end -->
 </div><!-- Skill individual end -->
 <div class="skill-individual">
-	<p>AJAX</p>
+	<p>SCSS</p>
 	<div class="progress">
 		<div class="progress-bar" role="progressbar" aria-valuenow="25" 
 		aria-valuemin="0" aria-valuemax="100" style="width: 25%;">

@@ -11,7 +11,7 @@
 		    						<h3>Bjarne Mølgaard Gerhardt-Pedersen</h3>
 		    						<p><span class="fa fa-map-marker"></span> Copenhagen, Denmark</p>
 		    						<p><a href="tel:+4530130036" alt="+4530130036"><span class="fa fa-phone"></span> +45 30 13 00 36</a></p>
-		    						<p><a href="mailto:bjarne_g_pedersen@hotmail.com" alt="bjarne_g_pedersen@hotmail.com"><span class="fa fa-envelope-o"></span> Bjarne_g_pedersen@hotmail.com</a></p>
+		    						<p><a href="mailto:bjarne_g_pedersen@hotmail.com" alt="bjarne_g_pedersen@hotmail.com"><span class="fa fa-envelope-o"></span> bjarne_g_pedersen@hotmail.com</a></p>
 		    						<p><a href="files/CV.pdf" target="_blank" alt="CV" title="CV"><span class="fa fa-file-o"></span> View CV</a></p>
 		    					</address>
 		    					<div class="social-links">

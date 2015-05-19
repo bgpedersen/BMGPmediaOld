@@ -256,7 +256,7 @@
 								<li>admin@bookit.dk // a</li>
 							</ul>
 							
-							<a href="#" target="_blank"><button type="button" class="btn btn-large btn-info">See the work</button></a>
+							<a href="http://bmgpmedia.dk/bookit/" target="_blank"><button type="button" class="btn btn-large btn-info">See the work</button></a>
 						</div>
 					</div><!-- col left description end -->
 					<div class="col-md-8 col-xs-12">
@@ -323,7 +323,7 @@
 							Remember to create a new user when trying for the first time. <br><br>The user details is stored locally in the browsers cache, allowing the details to be saved and reused. The game is created using NetBeans IDE.</p>
 							<br>							
 							
-							<a href="http://bmgpmedia.dk/village" alt="TheVillage" target="_blank"><button type="button" class="btn btn-large btn-info">See the work</button></a>
+							<a href="http://bmgpmedia.dk/Village" alt="TheVillage" target="_blank"><button type="button" class="btn btn-large btn-info">See the work</button></a>
 						</div>
 					</div><!-- col left description end -->
 					<div class="col-md-8 col-xs-12">

@@ -15,9 +15,9 @@ function init(){
     $(window).resize(function() {
       wheight = $(window).height(); //set the height of the window
       $('.fullheight').css('height', wheight); //set to window tallness  
-  });
+    });
 
-  
+    
 
     //Activate Scrollspy
     $('body').scrollspy({
