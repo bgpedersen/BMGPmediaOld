@@ -16,7 +16,7 @@
 				<div class="col-md-4 col-xs-12">
 					<div class="project_content_left">
 						<h4>IBG (Interaktiv Borgerguide)</h4>
-						<h5>My main responsibilities at ProReact as a fulltime Front-end Developer</h5>
+						<h5>Front-end Developer at ProReact</h5>
 						<img src="images/grey_line.png" class="line" alt="grey_line">
 						<ul>
 							<li>- Building, optimizing and expanding IBG products</li>
